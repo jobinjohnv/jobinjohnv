@@ -3,7 +3,7 @@
 <p align="center">  
   
 </p>
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
+<p align="center">  </p>
 
 - 💻 Currently working as Test Automation Architect in TCS
 
