@@ -33,12 +33,14 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-JMeter
-Gatling
-Eclipse
-VS
-Blazemeter
-Powershell
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="http://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="95" height="30"/> </a>
+<a href="https://gatling.io/" target="_blank"> <img src="https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg" alt="Gatling" width="40" height="40"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="40" height="40"/> </a>
+<a href="https://www.blazemeter.com/" target="_blank"> <img src="https://www.blazemeter.com/new_images/bzm-logo.png" alt="Blazemeter" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" alt="Powershell" width="40" height="40"/> </a>
+
+
 </p>
 
 
