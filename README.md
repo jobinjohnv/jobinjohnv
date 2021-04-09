@@ -1,5 +1,8 @@
-<h1 align="center">Hey, I'm Jobin John V 👋</h1>
+<h1 align="center">Hey 👋, I'm Jobin John</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
+<p align="center">
+ <a  href="" target="https://www.linkedin.com/in/jobinjohnv/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="cucumber" width="20" height="20"/>/jobinjohnv</a>
+  </p>
 <p align="center">  
   
 </p>
@@ -7,7 +10,7 @@
 
 - 💻 Currently working as Test Automation Architect in TCS
 
-- 🎯 I’m currently learning **Katalon, React JS, Python Flask**
+- 🎯 I’m currently learning **Katalon, Cypress, Python Flask and React JS**
 
 
 
