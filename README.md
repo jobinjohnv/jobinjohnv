@@ -18,6 +18,7 @@
 <a href='https://ko-fi.com/jobin' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=5' border='5' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobinjohnv&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobinjohnv&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobinjohnv&theme=nord_bright)
@@ -51,7 +52,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://jmeter.apache.org/" target="_blank"> <img src="http://jmeter.apache.org/images/jmeter.png" alt="JMeter" width="95" height="30"/> </a>
 <a href="https://gatling.io/" target="_blank"> <img src="https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg" alt="Gatling" width="40" height="40"/> </a>
