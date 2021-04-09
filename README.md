@@ -55,4 +55,12 @@
 </a><br><br><br>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobinjohnv&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobinjohnv&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobinjohnv&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jobinjohnv&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobinjohnv&theme=nord_bright)
+
+
+
 ![dino](https://github.com/SaravananVijayamuthu/SaravananVijayamuthu/blob/master/dino.gif)
