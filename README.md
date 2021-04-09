@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jobin John</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
 <p align="center">
- <a  href="https://www.linkedin.com/in/jobinjohnv/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="cucumber" width="20" height="20"/>/jobinjohnv</a>
+ <a  href="https://www.linkedin.com/in/jobinjohnv/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="cucumber" width="17" height="17"/><b>/jobinjohnv</b></a>
   </p>
 <p align="center">  
   
