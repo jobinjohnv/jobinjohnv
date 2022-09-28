@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋, I'm Jobin John</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
 <p align="center">
- <a  href="https://www.linkedin.com/in/jobinjohnv/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="cucumber" width="17" height="17"/><b>/jobinjohnv</b></a>
+ <a  href="https://www.linkedin.com/in/jobinjohnv/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="cucumber" width="17" height="17"/><b>/jobinjohnv</b></a>
   </p>
 <p align="center">  
   
 </p>
 <p align="center">  </p>
 
-- 💻 Currently working as Test Automation Architect in TCS
+- 💻 Currently working as Test Automation Specialist in Cisco
 
-- 🎯 I’m currently learning **Katalon, Cypress, Python Flask and React JS**
+- 🎯 I’m currently learning **Playwright with Java**
 
 
 
@@ -41,7 +41,6 @@
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://specflow.org/" target="_blank"> <img src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" alt="specflow" width="40" height="40"/> </a>
 <img src="https://rigor.com/wp-content/uploads/2016/06/api-a397cc184c5622fb5130af1b7baf149d.png" alt="API"  width="40" height="40"/>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -54,10 +53,9 @@
 <a href="https://gatling.io/" target="_blank"> <img src="https://gatling.io/wp-content/uploads/2019/04/logo-gatling-transparent@15x.svg" alt="Gatling" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="40" height="40"/> </a>
-<a href="https://www.blazemeter.com/" target="_blank"> <img src="https://www.blazemeter.com/new_images/bzm-logo.png" alt="Blazemeter" width="40" height="40"/> </a>
+<a href="https://www.blazemeter.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1841717?s=280&v=4" alt="Blazemeter" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" alt="Powershell" width="40" height="40"/> </a>
-
-
+<a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Blazemeter" width="40" height="40"/> </a>
 </p>
 
 
